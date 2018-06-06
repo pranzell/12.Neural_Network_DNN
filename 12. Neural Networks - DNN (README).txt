@@ -1,0 +1,5 @@
+12. Neural Networks - DNN
+
+This repository dives into the basics of a Deep/Dense Neural Netowrk. It contains an example of building a DNN model from Scratch and also contains an example which uses a KERAS API call. 
+
+The example contains Energy Efficiency Example which has 8 inputs and 2 output responses.
